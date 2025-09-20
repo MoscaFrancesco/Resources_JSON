@@ -243,5 +243,12 @@
     "description": "AI tools by usage without paying for the full subscription",
     "category": "other-tools",
     "paid": true
+  },
+  {
+    "link": "https://replicate.com/topazlabs/image-upscale",
+    "name": "TopazLabs Upscaler",
+    "description": "Upscale your image up to x6 for 0.05c/image or for free",
+    "category": "photo-tools",
+    "paid": true
   }
 ]
