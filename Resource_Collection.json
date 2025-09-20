@@ -1,16 +1,254 @@
 [
   {
-    "link": "d",
-    "name": "a",
-    "description": "s",
+    "link": "https://www.photopea.com/",
+    "name": "Photopea",
+    "description": "Free online image editor that runs directly in your browser.",
+    "category": "photo-tools",
+    "paid": false
+  },
+  {
+    "link": "https://online-video-cutter.com/it/video-editor",
+    "name": "Online Video Editor",
+    "description": "Edit videos directly in your browser quickly and easily.",
+    "category": "video-tools",
+    "paid": false
+  },
+  {
+    "link": "https://www.photoroom.com/tools/background-remover",
+    "name": "Background Remover",
+    "description": "Remove image backgrounds online with no login needed.",
+    "category": "photo-tools",
+    "paid": false
+  },
+  {
+    "link": "https://cobalt.tools/",
+    "name": "Video Downloader",
+    "description": "Download videos from multiple platforms quickly.",
+    "category": "video-tools",
+    "paid": false
+  },
+  {
+    "link": "https://videotogif.click/",
+    "name": "Video → GIF",
+    "description": "Convert MP4 videos into high-quality GIFs easily.",
+    "category": "video-tools",
+    "paid": false
+  },
+  {
+    "link": "https://www.freeconvert.com/",
+    "name": "File Converter",
+    "description": "Convert files between formats quickly online.",
+    "category": "other-tools",
+    "paid": false
+  },
+  {
+    "link": "https://www.transfernow.net/en",
+    "name": "Trasfernow",
+    "description": "Send large files securely and quickly online.",
+    "category": "other-tools",
+    "paid": false
+  },
+  {
+    "link": "https://www.ilovepdf.com/it/ocr-pdf",
+    "name": "I Love PDF",
+    "description": "Join, split, convert, OCR, edit, extract, or delete pages.",
+    "category": "other-tools",
+    "paid": false
+  },
+  {
+    "link": "https://mp3cut.net/",
+    "name": "Mp3 Editor",
+    "description": "Edit audio tracks online for free without login.",
+    "category": "audio-tools",
+    "paid": false
+  },
+  {
+    "link": "https://temp-mail.org/en/",
+    "name": "TempMail",
+    "description": "Get a unique temporary email instantly for free.",
+    "category": "other-tools",
+    "paid": false
+  },
+  {
+    "link": "https://imgupscaler.com/",
+    "name": "Image Upscaler",
+    "description": "Increase photo resolution with AI easily.",
+    "category": "photo-tools",
+    "paid": false
+  },
+  {
+    "link": "https://www.minifier.org/",
+    "name": "HTML, CSS, JS Minifier",
+    "description": "Reduce your code size to save space.",
+    "category": "coding-tools",
+    "paid": false
+  },
+  {
+    "link": "https://www.svgrepo.com/",
+    "name": "SVG Repo",
+    "description": "A collection of SVG image for your projects",
+    "category": "design-assets",
+    "paid": false
+  },
+  {
+    "link": "https://unblast.com/",
+    "name": "Unblast",
+    "description": "Free mockups for creative projects",
+    "category": "design-assets",
+    "paid": false
+  },
+  {
+    "link": "https://www.browserstack.com/",
+    "name": "BrowserStack",
+    "description": "Test websites on multiple devices",
+    "category": "coding-tools",
+    "paid": false
+  },
+  {
+    "link": "https://elevenlabs.io/",
+    "name": "ElevenLabs",
+    "description": "Realistic AI text to speech",
+    "category": "audio-tools",
+    "paid": false
+  },
+  {
+    "link": "https://uiverse.io/",
+    "name": "Uiverse",
+    "description": "Free UI code components",
+    "category": "coding-tools",
+    "paid": false
+  },
+  {
+    "link": "https://z-library.co/",
+    "name": "Z-Library",
+    "description": "Free ebooks for study use",
     "category": "for-students",
+    "paid": false
+  },
+  {
+    "link": "https://beautifier.io/",
+    "name": "Beautifier",
+    "description": "Format and beautify code written on HTML, CSS, JS",
+    "category": "coding-tools",
+    "paid": false
+  },
+  {
+    "link": "https://bugmenot.com/",
+    "name": "BugMeNot",
+    "description": "Shared logins for many paid websites",
+    "category": "other-tools",
+    "paid": false
+  },
+  {
+    "link": "https://magiceraser.org/remove-watermark-from-image/",
+    "name": "Magic Eraser Image",
+    "description": "Remove watermarks from pictures with IA",
+    "category": "photo-tools",
+    "paid": false
+  },
+  {
+    "link": "https://magiceraser.org/remove-watermark-from-video/",
+    "name": "Magic Eraser Video",
+    "description": "Remove watermarks from videos with IA",
+    "category": "video-tools",
+    "paid": false
+  },
+  {
+    "link": "https://gofile.io/premium",
+    "name": "GoFile",
+    "description": "Unlimited free file sharing with no size limit",
+    "category": "other-tools",
+    "paid": false
+  },
+  {
+    "link": "https://symbolsdb.com/",
+    "name": "SymbolsDB",
+    "description": "Copy and Paste special symbols",
+    "category": "design-assets",
+    "paid": false
+  },
+  {
+    "link": "https://pixabay.com/",
+    "name": "Pixabay",
+    "description": "Copyright-free stock images",
+    "category": "photo-tools",
+    "paid": false
+  },
+  {
+    "link": "https://www.bensound.com/royalty-free-music/?utm_source=theuseful.website&utm_medium=referral&utm_campaign=website_directory",
+    "name": "Bensound",
+    "description": "Royalty-free music",
+    "category": "audio-tools",
+    "paid": false
+  },
+  {
+    "link": "https://adam.new/",
+    "name": "Adam 3D",
+    "description": "Generate 3d files from description or images",
+    "category": "other-tools",
+    "paid": false
+  },
+  {
+    "link": "https://notebooklm.google.com/",
+    "name": "Notebook LM",
+    "description": "An AI tool for summarizing and exploring your documents",
+    "category": "for-students",
+    "paid": false
+  },
+  {
+    "link": "https://www.scribbr.com/ai-detector/",
+    "name": "Scribbr",
+    "description": "Free AI text checker",
+    "category": "for-students",
+    "paid": false
+  },
+  {
+    "link": "https://www.scribbr.com/citation/generator/ieee/",
+    "name": "Citation helper",
+    "description": "Automatically generates citation in every format",
+    "category": "for-students",
+    "paid": false
+  },
+  {
+    "link": "https://fontshare.com/",
+    "name": "Fontshare",
+    "description": "Free Fonts to download",
+    "category": "design-assets",
+    "paid": false
+  },
+  {
+    "link": "https://www.lalal.ai/",
+    "name": "LaLaL AI",
+    "description": "Separate voice from track",
+    "category": "audio-tools",
+    "paid": false
+  },
+  {
+    "link": "https://hdtoday.tv",
+    "name": "HdToday",
+    "description": "Free tv series and films (use adblock)",
+    "category": "other-tools",
+    "paid": false
+  },
+  {
+    "link": "https://airmore.ai/image-enhance",
+    "name": "AirMore AI",
+    "description": "Free and unlimited photo enhancer",
+    "category": "photo-tools",
+    "paid": false
+  },
+  {
+    "link": "https://replicate.com/",
+    "name": "Replicate AI",
+    "description": "AI tools by usage without paying for the full subscription",
+    "category": "other-tools",
     "paid": true
   },
   {
     "link": "d",
-    "name": "d",
-    "description": "d",
-    "category": "?",
+    "name": "f",
+    "description": "g",
+    "category": "for-students",
     "paid": true
   }
 ]
